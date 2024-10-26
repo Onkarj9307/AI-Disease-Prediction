@@ -1,0 +1,1 @@
+The proposed solution aims to build an AI-powered disease prediction system using Llama to analyze patient symptoms, medical history, and lifestyle data entered in natural language. By providing accurate, personalized disease predictions and preventive insights, this tool seeks to improve early diagnosis and support timely healthcare decisions for both patients and professionals.
